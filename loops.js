@@ -15,4 +15,6 @@ function whileLoop(number) {
     console.log(number)
     number--
   }
+  
+  return 'done'
 }
